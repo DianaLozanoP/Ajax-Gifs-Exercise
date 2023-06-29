@@ -1,0 +1,24 @@
+* {
+  font-family: "Handlee", cursive;
+}
+h1 {
+  background-image: linear-gradient(
+    to left,
+    violet,
+    indigo,
+    blue,
+    green,
+    yellow,
+    orange,
+    red
+  );
+}
+h1,
+form {
+  display: flex;
+  justify-content: center;
+}
+input {
+  width: 200px;
+  text-align: center;
+}
